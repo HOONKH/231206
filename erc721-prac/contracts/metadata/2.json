@@ -1,0 +1,27 @@
+{
+  "name": "Neuralyzer",
+  "description": "Neuralyzer - a digital masterpiece!",
+  "image": "https://silver-absent-owl-491.mypinata.cloud/ipfs/QmVe6gMdv4n1HJSABDmSDcYXuf2scxosj5FQV1Ewgsj5aL",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "USA"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "No comment"
+    },
+    {
+      "trait_type": "Voice",
+      "value": "DUde"
+    },
+    {
+      "trait_type": "Pose",
+      "value": "watch this"
+    },
+    {
+      "trait_type": "Favorite food",
+      "value": "Chocolate Milk"
+    }
+  ]
+}

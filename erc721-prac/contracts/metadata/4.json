@@ -1,0 +1,23 @@
+{
+  "name": "bakje",
+  "description": "bakje - a digital masterpiece!",
+  "image": "https://silver-absent-owl-491.mypinata.cloud/ipfs/QmXMx5yka3a2Yb9nDv3wDXEdg5FheviY5zDBKmDURKREPo",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Block Chain School"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "transparent"
+    },
+    {
+      "trait_type": "Voice",
+      "value": "phewwwwww"
+    },
+    {
+      "trait_type": "Pose",
+      "value": "coffee"
+    }
+  ]
+}

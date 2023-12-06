@@ -1,0 +1,27 @@
+{
+  "name": "Homer&Donut",
+  "description": "Homer - a digital masterpiece!",
+  "image": "https://silver-absent-owl-491.mypinata.cloud/ipfs/QmVydGbk4uCdGCCWJ9QEKuiMuAxixPFmZCBvqiuFfbuyzG",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blches"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "No comment"
+    },
+    {
+      "trait_type": "Voice",
+      "value": "tireedd"
+    },
+    {
+      "trait_type": "Pose",
+      "value": "coffee"
+    },
+    {
+      "trait_type": "Favorite food",
+      "value": "caffeine"
+    }
+  ]
+}
